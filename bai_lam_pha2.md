@@ -13,6 +13,7 @@
 **KET QUA AI**
 
 ```text
+
 ```json
 [
   {
@@ -42,6 +43,7 @@
 ]
 
 ```
+
 ```
 
 **Link trò chuyện:**https://share.gemini.google/1mq85m1zBFcv
