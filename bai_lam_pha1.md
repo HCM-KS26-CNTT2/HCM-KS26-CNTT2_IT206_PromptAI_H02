@@ -76,6 +76,7 @@ Kết quả đúng:
 {"loai_ve": "VEVIP", "ngay_choi": null, "nguoi_lon": 1, "tre_em": 0, "loai_tu": "nho", "ghi_chu": null}
 
 -----------------
+
 <tin_nhan>
 TN1: Cho mình 2 vé người lớn và 1 vé trẻ em 8 tuổi loại vé buổi chiều ngày 20/12 nhé, thuê tủ nhỏ.
 
